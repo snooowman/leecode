@@ -15,4 +15,4 @@ class Solution(object):
 
 if __name__ == '__main__':
     s=Solution()
-    s.findRepeatNumber([0, 1, 2, 3, 4, 11, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 99])
+    s.findRepeatNumber([0, 1, 2, 3, 4, 11, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15])
