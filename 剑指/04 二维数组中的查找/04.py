@@ -17,9 +17,9 @@ class Solution(object):
             elif matrix[row][col] < target:
                 row += 1
             else:
-                print 1
+                print(1)
                 return True
-        print 2
+        print(2)
         return False
 
         # for i in range(len(matrix)):
